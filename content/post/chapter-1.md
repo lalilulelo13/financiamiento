@@ -1,81 +1,66 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+date: 2022-06-23T14:58:08+00:00
+description: ''
+featured_image: "/images/promer-735x400.jpg"
+tags:
+- scene
+title: Grupo Promerica fomenta la educación financiera regional
+
 ---
+**La Semana de la Educación Financiera es una de las actividades de mayor énfasis del Grupo Promerica. Su objetivo es desarrollar buenas prácticas en pro del bienestar económico de las comunidades de los nueve países donde**
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+Las finanzas saludables dependen mucho de las decisiones que se toman en la vida y esta tiene consecuencias, algunas veces buenas, otros con resultados poco alentadores.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Por ello es importante sopesar los riesgos de las acciones que se tomen a fin de conseguir los objetivos en torno a esta inversión que se pretende realizar a corto, mediano o largo plazo.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+Bajo este contexto, Grupo Promerica, a través de la división de Inversión Social, impulsa iniciativas financieras con el propósito de impulsar el conocimiento y el desarrollo de buenas practicas que contribuyan al bienestar económico de los colaboradores y de las comunidades donde opera.
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Una de las actividades que recientemente realizó este conglomerado financiero regional fue la “Semana de la Educación Financiera, celebrada del 6 al 10 de junio.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+Su principal objetivo es el acercamiento al mundo de las finanzas básicas dirigidas a jóvenes y adultos a fin de ayudarlos a comprender los conceptos financieros de forma clara y que al mismo tiempo sean capaces de manejar su economía diaria.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+Asimismo, orientarlos a que esas decisiones sean las más adecuadas para la administración del dinero, de tal manera que logren alcanzar sus metas con una mejor calidad de vida, gracias a una cultura financiera.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+Es aquí donde radica la salud financiera y Grupo Promerica orienta su Responsabilidad Social a la educación y fomento de una cultura financiera regional, donde Banco Promerica en Guatemala, El Salvador, Honduras, Costa Rica, República Dominicana, Banpro Grupo Promerica Nicaragua, St. Georges Bank Grupo Promerica Panamá y Produbanco Grupo Promerica Ecuador, contribuyen a que esta actividad impacte a sus comunidades positivamente.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+En este gran esfuerzo, Grupo Promerica realizó un esfuerzo común de brindar talleres de Educación Financiera en las comunidades, fundaciones y ONG, de los diferentes países.
+
+Algunas de las temáticas impartidas en el área de educación financiera fueron la elaboración de un presupuesto, el uso adecuado de la tarjeta de crédito, el ahorro, las deudas y cómo salir de ellas, la importancia de mantener un récord crediticio y el phishig en el mundo digital.
+
+Grupo Promerica toma con una gran responsabilidad la educación financiera, pues se considera que la inclusión financiera es un elemento que propicia 7 de los 17 Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas.
+
+Además, viene apoyando los ODS desde la ratifición con la firma de los Principios de Banca Responsable de la Iniciativa Financiera del Programa de las Naciones Unidas para el Medio Ambiente (UNEP FI) en el 2019.
+
+**Promerica en acción**
+
+En la Semana de Educación Financiera, Grupo Promerica desarrollo diferentes actividades para incentivar a colaboradores y cliente a sumarla a su estilo de vida.
+
+**Costa Rica,** por ejemplo, estableció una alianza de cooperación con la Fundación Saprissa, el Fondo de las Naciones Unidas para la Infancia (UNICEF) y el Ministerio de Economía, Industria y Comercio de Costa Rica (MEIC), para desarrollar una serie de charlas y talleres durante dicha Semana, en los cuales participaron alrededor de 100 personas.
+
+**En Ecuador,** Produbanco trabajó con tres públicos diferentes, pero con un solo objetivo: compartir conocimientos financieros que en cualquier ámbito permitan valorar la importancia de manejar eficientemente los recursos para alcanzar salud y bienestar económico.
+
+Los temas que se abordaron estuvieron relacionados con marca personal, presupuesto y ahorro; los cuales fueron adaptados de acuerdo con el contexto en el que se desenvuelven cada uno de los grupos de beneficiarios.
+
+Uno de ellos fue la _Fundación Su Cambio por el Cambio_, que atiende a niños y adolescentes en situación de vulnerabilidad. Aquí, estudiantes de 14 a 17 años y padres de familia aprendieron a estructurar un presupuesto y a encontrar la manera de ahorrar aunque se cuente con pocos recursos.
+
+Por su parte, Promerica **El Salvador,** enfoco sus esfuerzos en la grabación de cápsulas informativas, sobre temas de interés como formas de protección ante el phishing en el mundo digital y cómo tener finanzas saludables, entre otros. Dichas cápsulas serán próximamente publicadas en las redes del Banco.
+
+Asimismo, se realizó una dinámica interna para los colaboradores, que otorgó entradas para el museo Tin Marín; y una charla que se impartió al personal de la Fundación Actuar es Vivir (FUNDACTUAR), sobre el manejo adecuado del presupuesto.
+
+**Guatemala** tampoco se quedó atrás en la Semana de Educación Financiera y Banco Promerica se enfocó sus actividades en la educación financiera para sus clientes, personal interno y asociaciones.
+
+De igual manera, compartieron con clientes, a través del correo electrónico, cápsulas de consejos financieros del segmento Bóveda Verde, del canal de YouTube del Banco.
+
+Otra de las actividades fue la difusión vía correo electrónico de la conferencia “Revisión de premisas económicas para el segundo semestre y sus impactos en los negocios” por Paulo de León, enfocado a clientes empresariales y PYMES.
+
+**Banco Promerica Honduras**vivió la Semana de Educación Financiera con capacitaciones a colaboradores, clientes y niños en edad escolar.
+
+A los colaboradores, se les asesoró en la importancia de mantener un récord crediticio sano y consejos de preparación para un préstamo hipotecario.
+
+Para los clientes empresariales se preparó una capacitación sobre educación financiera y para MUA (Mujeres Educando a Través del Arte), se llevó a cabo una capacitación sobre el ahorro a la Escuela de Niñas José Cecilia del Valle.
+
+**Banpro Nicaragua** se sumó a la semana de la educación financiera con una charla sobre “Estados Financieros y su Importancia en el Negocio Familiar”, dirigida a productores agroforestales de los municipios de Somoto, departamento de Madriz y Condega, Estelí, zona norte de Nicaragua.
+
+**St. Georges Bank, Panamá,** participó de la iniciativa con la capacitación al personal de la Fundación Amigos de Niños con Leucemia y Cáncer (FANLYC) bajo el tema "Construyendo Finanzas Saludables", con el objetivo de comunicar conceptos financieros de forma clara, para la toma de decisiones en el día a día.
+
+**República Dominicana** desarrolló la charla sobre el manejo responsable de las finanzas, dirigida a la Fundación Dominicana de Desarrollo (FDD). Esta iniciativa contó con el apoyo del programa de voluntariado del Banco: Huella Verde.
