@@ -4,7 +4,7 @@ description: ''
 featured_image: "/images/promer-735x400.jpg"
 tags:
 - scene
-title: Grupo Promerica fomenta la educación financiera regional
+title: Esto es un test
 
 ---
 **La Semana de la Educación Financiera es una de las actividades de mayor énfasis del Grupo Promerica. Su objetivo es desarrollar buenas prácticas en pro del bienestar económico de las comunidades de los nueve países donde**
